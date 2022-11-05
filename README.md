@@ -7,4 +7,4 @@
 
 Hello colleagues!
 I have some knowledge in Python and wanted to use this to help to develop some Open Sources here and my Python skills. 
-Here I'm is very beginner. I will thank for any your help where I can contribute my small skills and alse in learning both Python and GitHub. 
+Here I'm is very beginner. I will thank for any your help where I can contribute my small skills and also in learning both Python and GitHub. 
